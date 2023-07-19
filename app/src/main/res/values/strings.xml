@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Art Space</string>
+    <string name="app_name" translatable="false">Art Space</string>
+
+    <!-- Image one !-->
+    <string name="first_image_description" translatable="false">Giraffe</string>
+    <string name="artist_one">John Doe</string>
+    <string name="image_one_year">(1950)</string>
+
+    <!-- Image two !-->
+    <string name="second_image_description" translatable="false">Painting</string>
+    <string name="artist_two">Jane Doe</string>
+    <string name="image_two_year">(1967)</string>
+
+    <!-- Image three !-->
+    <string name="third_image_description" translatable="false">Connection</string>
+    <string name="artist_three">Jack Doe</string>
+    <string name="image_three_year">(1967)</string>
+
+
 </resources>
